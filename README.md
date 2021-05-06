@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     📚 I’m currently studying a bachelor's of Advanced Computing and Science, majoring in Data science and Medical science (4th Year)
     <br/ >
     <br /> 
-    📫 Please feel free to email me @safiabdullah235@hotmail.com
+    📫 Please feel free to email me: abdullah.safi@outlook.com.au
     <!-- <a href="https://abdullahsafi.github.io">abdullahsafi.github.io</a> -->
     <br />
     <br />

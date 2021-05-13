@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     📚 I’m currently studying Computational Data science and Medical science at the University of Sydney
     <br/ >
     <br /> 
-    📫 Please feel free to email me: abdullah.safi@outlook.com.au
+    📫 I'm always happy to meet new people, so feel free to email me: abdullah.safi@outlook.com.au
     <!-- <a href="https://abdullahsafi.github.io">abdullahsafi.github.io</a> -->
     <br />
     <br />

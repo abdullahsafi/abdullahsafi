@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <br />
     <a href="https://abdullahsafi.github.io">About Me</a>
     ·
-    <a href="mailto:abdullah.safi@outlook.com.au>Email</a>
+    <a href="mailto:abdullah.safi@outlook.com.au">Email</a>
     ·
     <a href="https://www.linkedin.com/in/abdullah-safi-52381a177/">LinkedIn</a>
   </samp>

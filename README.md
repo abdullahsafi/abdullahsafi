@@ -13,8 +13,11 @@ You can click the Preview link to take a look at your changes.
   <samp>
     📚 I’m currently studying Computational Data Science and Medical Science at the University of Sydney
     <br/ >
+    <br/ >
+    💻 I'm  interning as a Data Scientist at eHealth NSW, where I contribute to projects that aim to save lives through the enhancement of systems in public healthcare 
+    <br/ >
     <br /> 
-    📫 I'm always happy to meet new people, so feel free to email me: abdullah.safi@outlook.com.au
+    📫 You can reach me here: abdullah.safi@outlook.com.au
     <!-- <a href="https://abdullahsafi.github.io">abdullahsafi.github.io</a> -->
     <br />
     <br />

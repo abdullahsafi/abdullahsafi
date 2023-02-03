@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <samp>
-    📚 I’m currently studying Computational Data Science and Medical Science at the University of Sydney
+    📚 I’m a recent graduate from the University of Sydney where I specialised in Computational Data Science and Medical Science.
     <br/ >
     <br/ >
     💻 I'm  interning as a Data Scientist at eHealth NSW, where I contribute to projects that aim to save lives through the enhancement of systems in public healthcare 

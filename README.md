@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     📚 I’m a recent graduate from the University of Sydney where I specialised in Computational Data Science and Medical Science.
     <br/ >
     <br/ >
-    💻 I'm  interning as a Data Scientist at eHealth NSW, where I contribute to projects that aim to save lives through the enhancement of systems in public healthcare 
+    💻 I'm a Data Scientist at eHealth NSW, where I contribute to projects that aim to save lives through the enhancement of systems in public healthcare 
     <br/ >
     <br /> 
     📫 You can reach me here: abdullah.safi@outlook.com.au

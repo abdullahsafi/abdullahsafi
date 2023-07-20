@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ### Hi there 👋 -->
 
 <p align="center">
-  <h2 align="center"><samp>Hi there, I’m Abdullah Safi 👋</samp></h2>
+  <h2 align="center"><samp>Hi there👋</samp></h2>
 </p>
 
 <p align="center">

@@ -11,10 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <samp>
-    💻 I'm a Data Scientist at eHealth NSW, where I contribute to projects that aim to save lives through the enhancement of systems in public healthcare 
-    <br/ >
-    <br/ >
-    📚 I’m a recent graduate from the University of Sydney majoring in Computational Data Science and Medical Science.
+    💻 I'm a Data Scientist at eHealth NSW and a recent graduate from the University of Sydney majoring in Computational Data Science and Medical Science.
     <br/ >
     <br /> 
     📫 You can reach me via email or LinkedIn
